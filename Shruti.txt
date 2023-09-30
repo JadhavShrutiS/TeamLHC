@@ -4,3 +4,5 @@ Hi I am Shruti!
 
 I am doing a Git assignment.
 >>>>>>> branchShruti
+
+This is so much fun!Yay!
